@@ -1,5 +1,3 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+This is my personal cookbook. Many of the recipes are ones I've found on the internet, modified, developed with AI, etc. I've tried to attribute everyone appropriately; if I missed something please let me know.

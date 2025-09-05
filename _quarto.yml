@@ -5,16 +5,13 @@ project:
 book:
   title: "cookbook"
   description: "A personal digital cookbook."
-  repo-url: https://github.com/user/cookbook
+  repo-url: https://github.com/zeshanrajput/cookbook
   repo-actions: [edit, source, issue]
-  author: "Norah Jones"
+  author: "Zeshan Rajput"
   date: "9/5/2025"
   chapters:
     - index.qmd
-    - intro.qmd
     - breakfast.qmd
-    
-    
     - sauces_marinades.qmd
     - main_courses.qmd
     - side_dishes.qmd

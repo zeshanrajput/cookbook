@@ -7,7 +7,5 @@ _book/
 .quarto_history/
 .ipynb_checkpoints/
 *.qmd.bak
-*.html
-*.pdf
 
 /.quarto/
