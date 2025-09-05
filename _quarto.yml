@@ -17,8 +17,6 @@ book:
     - side_dishes.qmd
     - desserts.qmd
     - drinks.qmd
-    - summary.qmd
-    - references.qmd
 
 bibliography: references.bib
 
