@@ -2,7 +2,7 @@
 
 ## Current Focus
 
-The Quarto book is ready for publishing on GitHub Pages.
+Adding more recipes to the Quarto cookbook.
 
 ## Next Steps
 
