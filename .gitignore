@@ -9,3 +9,5 @@ _book/
 *.qmd.bak
 *.html
 *.pdf
+
+/.quarto/
