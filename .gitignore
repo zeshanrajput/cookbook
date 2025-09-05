@@ -1,0 +1,11 @@
+_book/
+.quarto/
+.DS_Store
+.Rproj.user/
+.Rhistory
+.Rdata
+.quarto_history/
+.ipynb_checkpoints/
+*.qmd.bak
+*.html
+*.pdf

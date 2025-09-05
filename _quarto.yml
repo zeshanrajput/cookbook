@@ -1,0 +1,37 @@
+project:
+  type: book
+
+book:
+  title: "cookbook"
+  description: "A personal digital cookbook."
+  repo-url: https://github.com/user/cookbook
+  repo-actions: [edit, source, issue]
+  author: "Norah Jones"
+  date: "9/5/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - breakfast.qmd
+    
+    
+    - sauces_marinades.qmd
+    - main_courses.qmd
+    - side_dishes.qmd
+    - desserts.qmd
+    - drinks.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    sharing: [facebook, twitter, linkedin]
+  pdf:
+    documentclass: scrreprt
+
+
+
