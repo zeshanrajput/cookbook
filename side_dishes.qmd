@@ -8,6 +8,9 @@ Attribution: Based on [Boston Baked Beans](https://www.allrecipes.com/recipe/182
 
 *   400g dry beans (navy, kidney, black, or whatever you have)
 *   1 medium onion, diced
+
+#### For the Sauce
+
 *   120ml ketchup
 *   45ml molasses
 *   50g brown sugar
@@ -53,6 +56,8 @@ Attribution: [Red Lobster® Cheddar Biscuits Recipe](https://www.allrecipes.com/
 
 ### Ingredients
 
+#### For the Biscuits
+
 *   240g all-purpose flour
 *   115g shredded Cheddar cheese
 *   12g baking powder
@@ -61,6 +66,9 @@ Attribution: [Red Lobster® Cheddar Biscuits Recipe](https://www.allrecipes.com/
 *   160ml milk
 *   75g butter, softened and cut into pieces
 *   1 large egg
+
+#### For the Topping
+
 *   30ml butter, melted
 *   5g dried parsley (Optional)
 *   3g garlic powder (Optional)

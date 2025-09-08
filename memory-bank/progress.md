@@ -1,6 +1,8 @@
 # Progress Log
 
-## v0.1 (In-Progress)
+**Note:** This cookbook is a "living document." This progress log captures snapshots in time, but the project is in a constant state of refinement.
+
+## v0.1 (Completed)
 
 - **2025-09-05** (Initial Setup & Recipe Entry):
   - Initial project setup and Memory Bank initialization.

@@ -105,6 +105,10 @@ Attribution: Based on [World's Best Pasta Sauce](https://www.allrecipes.com/reci
 *   840g tomato paste
 *   720ml water
 *   25g white sugar
+*   Optional: 15ml olive oil (if using very lean meat)
+
+#### Spices
+
 *   4g dried basil
 *   3g Italian seasoning
 *   1g fennel seed
@@ -112,7 +116,6 @@ Attribution: Based on [World's Best Pasta Sauce](https://www.allrecipes.com/reci
 *   1g ground black pepper
 *   0.5-1g red pepper flakes
 *   1g smoked paprika
-*   Optional: 15ml olive oil (if using very lean meat)
 
 ### Instructions
 
@@ -138,13 +141,16 @@ Attribution: Based on the [Exquisite Pizza Sauce recipe](https://www.allrecipes.
 *   30ml honey
 *   5ml minced garlic
 *   5ml Worcestershire sauce (or 2.5ml soy sauce)
+*   Salt to taste
+
+#### Spices
+
 *   2g onion powder
 *   1g dried oregano
 *   1g dried basil
 *   1g ground black pepper
 *   0.5g cayenne pepper
 *   0.5g dried red pepper flakes
-*   Salt to taste
 
 ### Directions
 
