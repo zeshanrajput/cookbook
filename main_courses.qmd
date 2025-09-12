@@ -60,7 +60,15 @@ Towards the end of the cooking process, add the ingredients that cook more quick
 
 ## Karachi Chicken Karahi
 
-This recipe is scaled to a can of tomato paste. 
+:::{.callout-note}
+* Actual Karachi-style chicken karahi wouldn't use an onion. I do. We like the addition of the umami notes. You do you.
+* This is a lot of oil. Evidently the oil separation (or "tarka") is a desired visual cue in a good karahi. We don't like it, so I'll probably cut the amount of oil in future versions, but this does make frying in a wok easier. 
+* This recipe is scaled to a can of tomato paste. This is because:
+    * Tomato paste is already cooked, so you don't need as much time to develop the tomato flavor.
+    * Chicken available in America has a lot more water than desi chicken. Using tomato paste instead of tomatoes or tomato sauce helps us keep the dish from getting watery.
+    * This isn't a lot of tomato paste, but cooking it first gets the maximum amount of flavor from the one can. If you don't cook it first, you'll probably want a second or third can. 
+* To this end, I may cut the amount of water even further. It should be just enough to let everything stew together without burning. Admittedly I'm aiming for a dryer karahi, and I understand regional variations exist.
+:::
 
 ### Ingredients
 
@@ -80,7 +88,7 @@ This recipe is scaled to a can of tomato paste.
 *   **Cumin Powder**: 7g total
 *   **Red Chili Powder or Paprika**: 6-10g
 *   **Black Peppercorns**: 7g, freshly crushed
-*   **Allspice**: 1g
+*   **Allspice**: 1g *Note: Use at the end!*
 
 #### Garnishes:
 
@@ -205,7 +213,7 @@ Attribution: Based on [Cha Cha's White Chicken Chili](https://www.allrecipes.com
 *   3g dried oregano
 *   3g ground cayenne pepper
 *   3 (425g) cans white beans, drained
-*   860ml chicken broth
+*   860ml chicken broth (note: There's a lot of flavor elsewhere, so this isn't a bad recipe to just go bouillion on.)
 *   420g chopped cooked chicken breast
 *   115g shredded cheese (see note)
 
