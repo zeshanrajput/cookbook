@@ -79,27 +79,9 @@ Attribution: Based on the [Homemade Naan recipe](https://www.onceuponachef.com/r
 
 Attribution: [Jay's Signature Pizza Crust](https://www.allrecipes.com/recipe/7245/jays-signature-pizza-crust/) from Allrecipes.
 
-This thick crust pizza dough recipe yields a crust that is soft and doughy on the inside and slightly crusty on the outside. Cover it with your favorite sauce and toppings to make a delicious pizza.
-
-### Yield
-
-1 giant pizza crust (Serves 15)
-
-### Prep Time
-
-30 mins
-
-### Cook Time
-
-15 mins
-
-### Additional Time
-
-1 hr
-
-### Total Time
-
-1 hr 45 mins
+:::{.callout-note}
+You can use the everything bread dough above to make pizza too, but if you have the time and energy this recipe is much more complex.
+:::
 
 ### Ingredients
 
@@ -164,3 +146,29 @@ Attribution: [Basic White Sandwich Bread](https://www.thekitchn.com/how-to-make-
     4.  **Pinch closed.** Use your fingers to pinch the dough closed where the top layer meets the bottom layers. Don't forget the sides!
     5.  **Fold the dough again.** The goal is to get the surface of the loaf as taut as possible. This will help the loaf rise evenly and keep its shape. If your loaf still seems a little loose after the initial folding, just fold it in half again and pinch it closed. We do this by pressing the middle down and drawing up the sides.
     6.  **Invert the loaf into the pan.** Roll the loaf over until the seam is facing down and then gently place the loaf into the pan. The seams should be on the bottom with the tight surface facing up.
+
+## NYT No Knead Bread Recipe
+
+Attribution: [New York Times Cooking: No Knead Bread Recipe](https://cooking.nytimes.com/recipes/11376-no-knead-bread)
+
+::: {.callout-note}
+Very low yeast, high hydration dough that requires a long rise at room temperature to build gluten.
+:::
+
+### Ingredients
+
+* 3 ⅓ cups (430 g)  all purpose flour
+* 2 tsp (8g) kosher salt or 1 ½ tsp if using table salt
+* ¼ tsp (~1g) active dry yeast
+* 1 ½ cups (~350 ml)  warm water
+
+### Instructions
+
+1. Mix all ingredients until a sticky dough forms.
+2. Cover and let rise, ideally 12+ hours. (Put in the refrigerator if > 18hrs or so)
+3. Flour surface. (Let come up to room temp if refrigerated). Turn out dough and do a few tuck and folds. 
+4. Form into ball, cover, and let rise on parchment paper greased with olive oil until doubled in size (~ 2 hrs). 
+5. Pre-heat oven with dutch oven inside to 450F. 
+6. (optional) just cover bottom of dutch oven with olive oil before placing dough into dutch oven. Score the dough.
+7. Bake with lid on for 30 minutes. 
+8. Remove lid and bake until nicely browned and crust is well formed, ~15-30 more minutes.

@@ -12,6 +12,7 @@ book:
   chapters:
     - index.qmd
     - breakfast.qmd
+    - bread.qmd
     - sauces_marinades.qmd
     - main_courses.qmd
     - side_dishes.qmd
