@@ -18,9 +18,9 @@ The bibliography file is `references.bib`.
 
 ## Recipe Formatting
 
-*   **Metric Conversion**: Where possible, all imperial measurements in recipes should be converted to metric. Values can be rounded to make measurements easier, as long as it doesn't substantially change the recipe.
-*   **Temperatures**: All temperatures should be provided in both Fahrenheit and Celsius (e.g., 400°F (200°C)).
-*   **Butter**: Butter measurements should include both grams and the equivalent in tablespoons (e.g., 113g / 8 tbsp).
+*   **Measurement Formatting**: All ingredients should list the metric measurement first, followed by the imperial equivalent in parentheses. For example: `500g (1.1 lbs)`. Values can be rounded to make measurements easier, as long as it doesn't substantially change the recipe.
+*   **Temperatures**: All temperatures should be provided in both Fahrenheit and Celsius, with the primary unit first followed by the conversion in parentheses. For example: `400°F (200°C)`.
+*   **Butter**: Butter measurements should include both grams and the equivalent in tablespoons. For example: `113g (8 tbsp)`.
 *   **Spice Measurement**: All spices should be measured in grams.
 *   **Notification**: When performing these conversions, I will inform you of the changes I am making.
 
