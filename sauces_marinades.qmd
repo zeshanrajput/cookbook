@@ -2,6 +2,10 @@
 
 ## Korean BBQ Marinade for Chicken Thighs
 
+::: {.callout-note}
+A sweet and savory marinade that caramelizes beautifully on the grill, bringing the flavors of a Korean BBQ house to your backyard.
+:::
+
 This recipe is for a delicious, spicy Korean-style marinade perfect for the grill.
 
 ### Marinade Ingredients
@@ -34,6 +38,10 @@ Preheat your grill to about 450-500°F (230-260°C). Grill the chicken for 6-8 m
 ---
 
 ## Peri-Peri Chicken Thighs
+
+::: {.callout-note}
+A vibrant, citrusy, and spicy marinade inspired by Portuguese-African cuisine. It's all about the interplay of heat, acid, and aromatics.
+:::
 
 This recipe makes a vibrant and flavorful peri-peri chicken, perfect for grilling.
 
@@ -79,7 +87,11 @@ Preheat your grill to about 450-500°F (230-260°C). Grill the chicken for 6-8 m
 
 ## Tailgate Tandoori Chicken
 
-An Indian-spiced, party-friendly chicken marinade.
+::: {.callout-note}
+A yogurt-based marinade that tenderizes the chicken while delivering the warm, earthy spices of traditional Tandoori cooking, adapted for easy grilling.
+:::
+
+Attribution: Based on Chef John's Tailgate Tandoori Chicken
 
 ### Marinade Ingredients
 
@@ -133,6 +145,10 @@ Whisk all ingredients together in a small bowl until smooth.
 
 ## Simplified Pasta Sauce
 
+::: {.callout-note}
+A reliable, hearty meat sauce that serves as the backbone for weeknight pasta dinners. It's rich, savory, and comes together with pantry staples.
+:::
+
 Attribution: Based on [World's Best Pasta Sauce](https://www.allrecipes.com/recipe/130358/worlds-best-pasta-sauce/) from Allrecipes.
 
 ### Ingredients
@@ -169,6 +185,10 @@ Attribution: Based on [World's Best Pasta Sauce](https://www.allrecipes.com/reci
 
 ## Exquisite Pizza Sauce (Modified)
 
+::: {.callout-note}
+A no-cook sauce that bursts with tomato flavor, enhanced by a touch of sweetness and a savory kick from parmesan and Worcestershire.
+:::
+
 Attribution: Based on the [Exquisite Pizza Sauce recipe](https://www.allrecipes.com/recipe/17319/exquisite-pizza-sauce/) from Allrecipes.
 
 ### Ingredients
@@ -202,6 +222,10 @@ Attribution: Based on the [Exquisite Pizza Sauce recipe](https://www.allrecipes.
 
 ## Instant Pot Apple Butter
 
+::: {.callout-note}
+Concentrating the essence of apples into a thick, spiced spread. It captures the flavors of autumn and serves as a base for sweet and savory applications.
+:::
+
 Attribution: Based on [Instant Pot Apple Butter](https://abountifulkitchen.com/instant-pot-apple-butter/) from A Bountiful Kitchen.
 
 ### Ingredients
@@ -234,3 +258,312 @@ Attribution: Based on [Instant Pot Apple Butter](https://abountifulkitchen.com/i
 6.  Once the pressure is fully released, open the lid and stir in the lemon juice and another 2g of nutmeg.
 7.  Use an immersion blender to puree the apples until the mixture is smooth. If you don't have an immersion blender, let the mixture cool for about 30 minutes, then transfer it to a regular blender and blend in small batches until smooth.
 8.  Spoon the finished apple butter into jars or other containers. It can be stored in the refrigerator for up to 10 days or frozen for longer storage.
+
+---
+
+## Trinidadian Green Seasoning (The Fresh/Herbal Profile)
+
+::: {.callout-note}
+The "Mother Sauce" of the Caribbean. A vibrant, herbaceous puree that brings a fresh, grassy punch to any meat it touches. It is a fresh, herbal puree used to marinate meats for curries, stews, and barbeque. While traditionally made with chadon beni (culantro), this version uses cilantro, which is readily available and provides a similar profile.
+:::
+
+Attribution: Traditional (with assistance from Gemini)
+
+### Ingredients
+
+*   100g (2 bunches) fresh cilantro (leaves and tender stems)
+*   100g (1 bunch) scallions (green onions), chopped
+*   50g (1 head) garlic, peeled (approx. 10-12 cloves)
+*   50g (approx. 4cm piece) fresh ginger, peeled
+*   15g (1-2) fresh hot peppers (Scotch Bonnet, Habanero, or Jalapeño), seeds removed for less heat
+*   15g (1 tbsp) dried thyme (or 1 bunch fresh)
+*   60ml white vinegar or lime juice
+*   30ml water (only if needed to help blend)
+
+### Instructions
+
+1.  Roughly chop the cilantro, scallions, and ginger.
+2.  Place all ingredients into a blender or food processor.
+3.  Pulse until you have a coarse paste. It should not be a smooth smoothie, but rather a textured, wet rub.
+4.  Store in a glass jar in the refrigerator for up to 2 weeks, or freeze in ice cube trays.
+
+### Preparation Suggestion: Trinidadian BBQ Chicken
+
+Attribution: A "New World" grill classic.
+
+Unlike American BBQ, which relies heavily on smoke and dry rubs, "Trini BBQ" relies on a wet, herbal marinade (Green Seasoning) followed by a sticky, ketchup-based glaze applied at the very end.
+
+#### Marinade Ingredients
+
+*   1.5 - 2 kg chicken leg quarters (bone-in, skin-on)
+*   120ml Green Seasoning (recipe above)
+*   30ml soy sauce
+*   15ml Worcestershire sauce
+*   10g salt
+*   5g black pepper
+
+#### Trini BBQ Sauce Ingredients
+
+*   240ml ketchup
+*   50g brown sugar
+*   30ml molasses
+*   15ml soy sauce
+*   15ml lime juice
+*   5g garlic powder
+*   2g dash of Angostura bitters (optional, but authentic) or a pinch of allspice
+
+#### Instructions
+
+**1. The Marination**
+
+1.  Clean and trim the chicken.
+2.  In a large bowl or ziplock bag, massage the chicken thoroughly with the Green Seasoning, soy sauce, Worcestershire, salt, and pepper.
+3.  **Crucial Step:** Let this marinate for at least 6 hours, preferably overnight. The herbs need time to penetrate the meat.
+
+**2. The Sauce**
+
+1.  While the grill heats, whisk together all BBQ sauce ingredients in a small bowl. Set aside.
+
+**3. The Grill**
+
+1.  Preheat your grill for two-zone cooking.
+    *   **Hot Zone (Direct Heat):** Aim for 400-450°F (200-230°C).
+    *   **Cool Zone (Indirect Heat):** Aim for 300-350°F (150-175°C).
+2.  Place the chicken on the cooler side (indirect heat), skin side up. Cover and cook for 35-40 minutes at approx. 350°F (175°C). You want the chicken mostly cooked through without burning the herbs.
+3.  Move the chicken to the hot side of the grill (direct heat).
+4.  Brush generously with the BBQ Sauce.
+5.  Grill for 2-3 minutes per side, flipping and basting once more, until the sauce is bubbly, sticky, and charred in spots.
+6.  Serve immediately with extra sauce on the side.
+
+---
+
+## Apple Butter BBQ Sauce (The Sweet/Smoky Profile)
+
+::: {.callout-note}
+A Kansas City-style sauce that uses our Apple Butter as a secret weapon. It's thick, sticky, and balances sweetness with deep, smoky spice. The natural pectin in the apples provides a luxurious thickness without needing cornstarch, and the winter spices (cinnamon, cloves) in the butter add a complex "secret ingredient" note that pairs perfectly with smoke.
+:::
+
+Attribution: The "House" Sauce.
+
+### Ingredients
+
+*   240ml (1 cup) Instant Pot Apple Butter (see recipe above)
+*   120ml (1/2 cup) ketchup
+*   60ml (1/4 cup) apple cider vinegar (or white vinegar)
+*   30ml (2 tbsp) Worcestershire sauce
+*   15g (1 tbsp) brown sugar (optional, depending on how sweet your apple butter is)
+*   8g (1 tbsp) smoked paprika
+*   4g (1 tsp) garlic powder
+*   4g (1 tsp) onion powder
+*   1-2g cayenne pepper (to taste)
+
+### Instructions
+
+1.  **Combine:** In a medium saucepan, whisk together all the ingredients.
+2.  **Simmer:** Bring the mixture to a gentle bubble over medium-low heat. Let it simmer for 5-10 minutes. *Note: You aren't really "cooking" it since the apple butter is already done; you are just marrying the flavors and blooming the paprika.*
+3.  **Adjust:** Taste the sauce.
+    *   If it's too thick, splash in a little water or more vinegar.
+    *   If it's too tart, add the brown sugar.
+4.  **Store:** Keep in a jar in the fridge for up to a month. The flavors will improve after sitting for 24 hours.
+
+### Preparation Suggestion: Kansas City Style "Burnt Ends" Chicken
+
+Attribution: A technique for turning chicken thighs into bite-sized BBQ candy.
+
+While "burnt ends" are traditionally made from beef brisket, this technique mimics that texture using chicken thighs. By cutting the chicken before grilling, you maximize the surface area for the rub and the glaze, ensuring every bite is sticky, smoky, and charred.
+
+#### Ingredients
+
+*   1kg (2.2 lbs) boneless, skinless chicken thighs
+*   1 batch Apple Butter BBQ Sauce (approx. 300-400ml)
+
+#### The Rub
+
+*   10g (2 tsp) salt
+*   5g (2 tsp) smoked paprika
+*   5g (1 tsp) black pepper
+*   5g (1 tsp) garlic powder
+
+#### Instructions
+
+**1. Prep the Chicken**
+
+1.  Cut the chicken thighs into 4-5cm (1.5-2 inch) chunks. Trim off any excessive loose fat, but leave some for flavor.
+
+**2. Season**
+
+1.  Toss the chicken chunks in a bowl with the Rub ingredients until thoroughly coated.
+
+**3. The Cook (Two Options)**
+
+*   **Method A: Grill (Preferred)**
+    1.  Preheat grill to medium-high (approx. 400°F / 200°C).
+    2.  Grill the chicken chunks for 3-4 minutes per side until they develop a nice char and are mostly cooked through. *Tip: Use a grill basket or skewers if your grates are wide so you don't lose any meat.*
+
+*   **Method B: Oven Roast**
+    1.  Preheat oven to 425°F (220°C).
+    2.  Arrange chicken on a foil-lined baking sheet.
+    3.  Bake for 15-18 minutes until browned.
+
+**4. The "Burnt End" Finish**
+
+1.  Transfer the cooked chicken chunks into a large bowl.
+2.  Pour the Apple Butter BBQ Sauce over the chicken and toss to coat heavily.
+3.  **Return to heat:**
+    *   **Grill:** Place the sauced chunks back on the grill (or in a disposable foil pan on the grill) for 2-3 minutes, tossing often, until the sauce is tacky and caramelized.
+    *   **Oven:** Return the baking sheet to the oven (or switch to broiler) for 3-5 minutes until the sauce bubbles and darkens.
+4.  **Serve:** Pile onto a platter and serve with toothpicks or over rice.
+
+---
+
+## Jamaican Jerk Marinade (The Spicy/Aromatic Profile)
+
+::: {.callout-note}
+A complex, fiery marinade defined by the heat of (ideally) scotch bonnets and the warmth of allspice. It's an aromatic powerhouse that transforms simple chicken into a culinary event.
+
+This marinade is the perfect example of how the same ingredients can create vastly different cuisines. By taking the "sweet" spices from the Apple Butter chapter (allspice, cinnamon, nutmeg) and combining them with the savory engines of the Main Courses chapter (soy sauce, ginger, green onions), you create the unmistakable, fiery, and aromatic profile of authentic Jerk.
+:::
+
+Attribution: The "Pantry Raid" Classic.
+
+
+
+### Ingredients
+
+#### The Fresh Base
+
+*   100g (1 bunch) scallions (green onions), chopped (green and white parts). *Sub: Use 1 additional medium onion (red or yellow).*
+*   30-40g (6-8 cloves) garlic, peeled
+*   30g (approx. 2 tbsp) fresh ginger, peeled and roughly chopped
+*   15-45g (1-3) Scotch Bonnet or Habanero peppers (adjust for heat; remove seeds for a milder version). *Sub: 30-40g (2-3) Jalapeños, or 5-10g (1-2 tsp) Cayenne powder.*
+*   150g (1 medium) onion, roughly chopped
+
+#### The Liquids
+
+*   60ml (1/4 cup) soy sauce
+*   30ml (2 tbsp) vegetable oil
+*   30ml (2 tbsp) white vinegar or lime juice
+
+#### The Dry Spices
+
+*   30g (2 tbsp) brown sugar
+*   15g (1 tbsp) dried thyme (or 2 tbsp fresh leaves)
+*   8g (1 tbsp) ground allspice (essential)
+*   4g (1 tsp) ground cinnamon
+*   4g (1 tsp) ground nutmeg
+*   5g (1 tsp) salt
+*   5g (1 tsp) black pepper
+
+### Instructions
+
+1.  **Combine:** Place all ingredients into a blender or food processor.
+2.  **Blend:** Pulse until you have a thick, somewhat chunky paste. It should be darker than the Green Seasoning due to the soy sauce and spices.
+3.  **Store:** This is a powerful marinade. It keeps in the fridge for 2-3 weeks.
+
+### Preparation Suggestion: "Sunday Best" Jerk Chicken
+
+Attribution: Adapting the "Pimento Wood" method for a gas or charcoal grill.
+
+True Jerk chicken is smoked over fresh pimento (allspice) wood, which gives it a distinct flavor. Since we can't easily get that wood, we mimic the effect by using a heavy coating of the allspice-rich marinade and a slow, two-zone cooking method that allows the paste to form a dark, flavorful "bark" without burning.
+
+#### Ingredients
+
+*   1.5 - 2 kg chicken pieces (bone-in, skin-on thighs and legs are best)
+*   240ml (1 cup) Jamaican Jerk Marinade (recipe above)
+
+#### Instructions
+
+**1. The Score**
+
+1.  Using a sharp knife, make 2-3 deep slashes in the meat of each chicken piece, cutting all the way to the bone. *Why? This allows the marinade to penetrate deep into the meat and helps it cook evenly.*
+
+**2. The Rub**
+
+1.  **Wear gloves (the peppers are hot!).** Massage the marinade into the chicken, pushing it specifically into the slashes you just cut and under the skin.
+
+**3. The Wait**
+
+1.  Marinate for at least 4 hours, but 24 hours is ideal. The longer it sits, the better it gets.
+
+**4. The Cook**
+
+1.  **Preheat:** Set up your grill for two-zone cooking.
+    *   **Hot Zone (Direct Heat):** Aim for 400-450°F (200-230°C).
+    *   **Cool Zone (Indirect Heat):** Aim for 300-350°F (150-175°C).
+2.  **Slow Roast:** Place the chicken on the cool side of the grill, skin-side up. Close the lid and let it roast indirectly for 40-50 minutes. You want the chicken to be fully cooked and the marinade to look dry and baked-on.
+3.  **The Char:** Move the chicken over to the hot side of the grill. Sear for 2-4 minutes per side, flipping often, until the skin is crisp and you have that signature blackened char.
+4.  **Serve:** Serve with rice and peas or hard dough bread to soak up the heat.
+
+---
+
+## Pollo a la Brasa Marinade (The Savory/Umami Profile)
+
+::: {.callout-note}
+his marinade is the secret behind the addictive charcoal-roasted chicken of Peru. It relies on a heavy hand with Cumin and Soy Sauce, creating a dark, savory skin that tastes like it spent hours over a wood fire, even when cooked in a standard oven.
+:::
+
+Attribution: The "Umami" Roast.
+
+### Ingredients
+
+*   60ml (1/4 cup) soy sauce
+*   60ml (1/4 cup) white vinegar (or red wine vinegar if you have it)
+*   30ml (2 tbsp) vegetable oil
+*   30-40g (6-8 cloves) garlic, minced (or 1 tbsp garlic paste)
+*   15g (1 tbsp) ground cumin (don't be shy!)
+*   15g (1 tbsp) paprika (smoked paprika works great here too)
+*   5g (1 tsp) dried oregano
+*   5g (1 tsp) black pepper
+*   2g (1/2 tsp) salt (go easy, as the soy sauce is salty)
+
+### Instructions
+
+1.  **Whisk:** Combine all ingredients in a bowl or jar. Whisk until the spices are well hydrated.
+2.  **Texture:** The marinade will be thin and dark. This is correct; it's meant to penetrate the meat rather than sit on top like a glaze.
+3.  **Store:** Keeps for 1 week in the fridge.
+
+### Preparation Suggestion: Peruvian "Rotisserie-Style" Roast Chicken
+
+Attribution: Achieving the "charcoal" crisp in a home oven.
+
+The signature of Pollo a la Brasa is the crispy, salty skin. To replicate this without a rotisserie, we roast at a higher temperature than normal.
+
+#### Ingredients
+
+*   1 Whole Chicken (approx. 1.5 - 1.8 kg), or 1.5 kg of bone-in chicken quarters
+*   1 batch Pollo a la Brasa Marinade (recipe above)
+
+#### Instructions
+
+**1. Marinate**
+
+1.  Place the chicken in a large ziplock bag. Pour the marinade in.
+2.  **Crucial Step:** Massage the marinade under the skin of the breast and thighs. This ensures the meat turns dark and flavorful.
+3.  Let it sit for at least 6 hours, ideally 24 hours.
+
+**2. Prep**
+
+1.  Preheat your oven to 425°F (220°C).
+
+**3. Roast**
+
+1.  Place the chicken on a wire rack set over a baking sheet (or in a roasting pan). The rack is important for air circulation.
+2.  Roast for 45-60 minutes.
+3.  *Tip: If the skin starts getting too dark (due to the soy sauce caramelizing), tent a piece of foil over the breast for the last 15 minutes.*
+
+**4. Rest**
+
+1.  Let the chicken rest for 10 minutes before carving.
+
+#### Serving Suggestion: "Green Sauce" (Aji Verde)
+
+Serve this with a quick blender sauce using your existing pantry staples:
+
+*   110g (1/2 cup) Mayonnaise
+*   50g (1 bunch) fresh Cilantro (stems and all)
+*   15-30g (1-2) Jalapeños (or heavy pinch of cayenne)
+*   5g (1 clove) Garlic
+*   5g (1 tbsp) Parmesan Cheese (from the Pizza recipe)
+*   30ml (1 lime) Juice of 1 lime (or splash of vinegar)
+
+**Instructions:** Blend until smooth and green. Dip the chicken (and fries!) in it.

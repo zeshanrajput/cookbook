@@ -8,6 +8,7 @@ This file tracks the maturity of each recipe based on how many times it has been
 - [ ] Jay's Signature Pizza Crust (Made many times.)
 - [ ] Basic White Sandwich Bread (Made several times, though not better than store bought bread unless you're on a boat and away from land for a while.)
 - [ ] NYT No Knead Bread Recipe (Made several times. I use this baking technique with the simpler everything dough recipe above.)
+- [ ] The "Considered Average" Shokupan (Made: 0)
 
 ## Breakfast
 - [ ] Good Old-Fashioned Pancakes (Modified) (Made many times.)
@@ -19,6 +20,7 @@ This file tracks the maturity of each recipe based on how many times it has been
 ## Desserts
 - [ ] 1-2-3-4 Cake (Made several times. My go-to cake.)
 - [ ] Vanilla Pudding (Made several times. Not signifcantly better than store-bought.)
+- [ ] Julia Child's Fluffy Pumpkin Pie (Made: 0)
 
 ## Drinks
 - [ ] Boardwalk Lemonade (Made many times. Now a go-to for homemade lemonade.)
@@ -45,8 +47,13 @@ This file tracks the maturity of each recipe based on how many times it has been
 - [ ] Simplified Pasta Sauce (Made many times, our base pasta sauce.)
 - [ ] Exquisite Pizza Sauce (Modified) (Made many times, our go-to pizza sauce.)
 - [ ] Instant Pot Apple Butter (Made a few times, goes over very well after apple picking or when seconds are in the market).
+- [ ] Trinidadian Green Seasoning (Mother Sauce) + BBQ Chicken (Prep) (Made: 0)
+- [ ] Apple Butter BBQ (Mother Sauce) + Burnt Ends Chicken (Prep) (Made: 0)
+- [ ] Jamaican Jerk Marinade (Mother Sauce) + Jerk Chicken (Prep) (Made: 0)
+- [ ] Pollo a la Brasa Marinade (Mother Sauce) + Roast Chicken (Prep) (Made: 0)
 
 ## Side Dishes
 - [ ] Smoked Paprika Boston Baked Beans (Made once or twice. Need to test more).
 - [ ] Red Lobster Cheddar Biscuits (Made a few times, always a crowd hit).
 - [ ] Sushi Rice (Made several times. Good recipe.)
+- [ ] Kish Family Two-Bread Stuffing (Made: 0)

@@ -148,6 +148,89 @@ Attribution: [Basic White Sandwich Bread](https://www.thekitchn.com/how-to-make-
     5.  **Fold the dough again.** The goal is to get the surface of the loaf as taut as possible. This will help the loaf rise evenly and keep its shape. If your loaf still seems a little loose after the initial folding, just fold it in half again and pinch it closed. We do this by pressing the middle down and drawing up the sides.
     6.  **Invert the loaf into the pan.** Roll the loaf over until the seam is facing down and then gently place the loaf into the pan. The seams should be on the bottom with the tight surface facing up.
 
+## The "Considered Average" Shokupan (Japanese Milk Bread)
+
+Attribution: Internal comparative analysis and formulation.
+
+### Ingredients
+
+#### For the Tangzhong (Water Roux)
+
+*   25g (3 tbsp) All-Purpose Flour
+*   60ml (1/4 cup) Whole Milk
+*   60ml (1/4 cup) Water
+
+#### For the Main Dough
+
+*   325g (2 2/3 cups) All-Purpose Flour
+*   35g (2 1/2 tbsp) Granulated Sugar
+*   5g (1 1/2 tsp) Instant Yeast
+*   6g (1 tsp) Fine Sea Salt
+*   50g (1 large) Whole Egg, room temperature
+*   120ml (1/2 cup) Whole Milk, lukewarm
+*   30g (2 tbsp) Unsalted Butter, softened
+
+#### For Brushing (Optional)
+
+*   1 large Egg
+*   15ml (1 tbsp) Water or Milk
+
+### Instructions
+
+#### Phase 1: The Tangzhong (Pre-Gelatinization)
+
+1.  **Combine**: In a small saucepan, whisk the flour, milk, and water until smooth.
+2.  **Heat**: Place over medium-low heat. Stir constantly with a whisk or silicone spatula.
+3.  **Observation**: The mixture will first froth, then liquid will evaporate, and it will suddenly thicken into a paste.
+4.  **Endpoint**: Cook until the whisk leaves lines in the mixture that do not immediately fill back in (approx 65°C / 149°F).
+5.  **Cool**: Transfer to the mixing bowl. **Crucial**: Let it cool to room temperature (or at least lukewarm). Adding yeast to hot Tangzhong will kill the yeast.
+
+#### Phase 2: Mixing and Autolyse
+
+1.  **Layer**: In the bowl with the cooled Tangzhong, add the lukewarm milk, egg, sugar, and yeast. Whisk to break up the Tangzhong and dissolve the sugar.
+2.  **Add Flour**: Dump in the flour and salt.
+3.  **Shaggy Mix**: Mix on low speed (or by hand) just until no dry flour remains. It will look rough.
+4.  **Rest (Autolyse)**: Cover the bowl and walk away for 20 minutes. This allows the flour to absorb the liquid fully and proteins to align naturally, reducing the need for mechanical kneading.
+
+#### Phase 3: Kneading and Fat Integration
+
+1.  **Develop**: After the rest, knead on medium-low speed for 5-7 minutes. The dough should smooth out.
+2.  **Butter Addition**: Add the softened butter in two batches. Wait for the first piece to disappear before adding the next.
+3.  **Final Knead**: Knead for another 5 minutes. The dough should be tacky (sticky to the touch) but not messy. It should pass the "Windowpane Test"—stretching translucent without tearing.
+
+#### Phase 4: Bulk Fermentation
+
+1.  **Rise**: Form into a ball. Place in a greased bowl and cover.
+2.  **Environment**: Let rise for 1 to 1.5 hours at warm room temperature (24°C / 75°F).
+3.  **Cue**: Stop when the dough has just doubled. Do not let it triple, or the structure will collapse.
+
+#### Phase 5: Shaping (The 3-Fold Method)
+
+1.  **Divide**: Punch down the dough gently. Weigh total dough (approx 650g) and divide into 3 equal pieces (~215g each).
+2.  **Bench Rest**: Round into balls. Cover and let rest for 15 minutes to relax the tension.
+3.  **Lamination**:
+    *   Take one ball. Roll it out into a long oval (approx 8-10 inches).
+    *   Fold the right third into the middle. Fold the left third over that (like a letter).
+    *   Use the rolling pin to flatten this strip slightly.
+    *   Roll the strip up from the short end into a tight cylinder (swiss roll style).
+4.  **Pan**: Place the three cylinders into a greased 9x5 inch loaf pan, seam side down.
+
+#### Phase 6: Final Proof and Bake
+
+1.  **Proof**: Cover the pan. Let rise until the dough is about 1 inch below the rim of the pan (for a flat top) or just crowning the rim (for a domed top). This takes 45-60 minutes.
+2.  **Bake**: Preheat oven to 175°C (350°F). Brush the top with an egg wash (beaten egg with a splash of water) for shine if desired. Bake for 30-35 minutes.
+3.  **Finish**: The bread is done when the internal temperature reads 88°C (190°F). Remove from pan immediately to a wire rack.
+
+### Chef's Note: Dinner Rolls Variation
+
+This dough makes excellent, fluffy dinner rolls.
+
+*   **Shaping**: At the shaping step, instead of three cylinders divide the dough into 50-60g portions and roll into tight balls.
+*   **Pan Size**: For a standard 9x13 inch baking pan, you will need to **double the recipe**. This will yield 20-24 rolls (arranged 4x5 or 4x6). A single batch fits well in a 9x9 inch square pan (9 large rolls).
+*   **Baking**: Proof until the rolls are puffy and touching. Bake at 175°C (350°F) for 20-25 minutes, or until golden brown and the internal temperature reaches 88°C (190°F).
+
+---
+
 ## NYT No Knead Bread Recipe
 
 Attribution: [New York Times Cooking: No Knead Bread Recipe](https://cooking.nytimes.com/recipes/11376-no-knead-bread)

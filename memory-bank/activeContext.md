@@ -19,3 +19,10 @@
     - Consider removing or archiving the `NYT No Knead Bread Recipe` since its technique is now used with another dough.
 - **New Recipes**:
     - Add the `Pumpkin Spice Latte` to the testing queue.
+    - Add `Julia Child's Fluffy Pumpkin Pie` to the testing queue.
+    - Add `Kish Family Two-Bread Stuffing` to the testing queue.
+    - Test `Trinidadian Green Seasoning` & `Trinidadian BBQ Chicken`.
+    - Test `Apple Butter BBQ Sauce` & `Burnt Ends Chicken`.
+    - Test `Jamaican Jerk Marinade` & `Jerk Chicken`.
+    - Test `Pollo a la Brasa Marinade` & `Roast Chicken`.
+    - Test `The "Considered Average" Shokupan`.
