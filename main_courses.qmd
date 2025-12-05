@@ -3,13 +3,21 @@
 ## Karachi Chicken Karahi
 
 :::{.callout-note}
+Chicken in America often contains a high percentage of retained water from processing. This recipe uses tomato paste to avoid making the final dish watery, which creates a specific, deep flavor.
+
+**For a more traditional flavor using fresh tomatoes**, you must first pre-treat the chicken using the **Optional Dry-Brine** step below. This removes excess surface water, allowing the chicken to fry properly. If using this method, you can substitute the tomato paste and water with **4-5 medium-sized fresh tomatoes, deseeded and chopped**.
+:::
+
+:::{.callout-note}
+This recipe uses a significant amount of oil, which is crucial for the *bhunai* (high-heat frying) technique. The oil acts as a heat-transfer medium and a solvent for fat-soluble flavor compounds in the spices.
+
+The visual cue you're looking for is the **tarka** (or *roghan*), where the oil separates and floats on top of the sauce. This indicates that the water has evaporated and the sauce has reached a temperature above 100°C, allowing for the Maillard reaction (browning and flavor-deepening) to occur.
+
+**Do not reduce the oil during cooking.** Instead, cook with the full amount to achieve the correct flavor extraction. If you prefer a less oily final dish, simply spoon off the excess separated oil at the end before serving.
+:::
+
+:::{.callout-note}
 * Actual Karachi-style chicken karahi wouldn't use an onion. I do. We like the addition of the umami notes. You do you.
-* This is a lot of oil. Evidently the oil separation (or "tarka") is a desired visual cue in a good karahi. Frying the tomato paste and masala before the chicken has helped absorb the oil, but a tarka is still present after the dish stands for a little. 
-* This recipe is scaled to a can of tomato paste. This is because:
-    * Tomato paste is already cooked, so you don't need as much time to develop the tomato flavor.
-    * Chicken available in America has a lot more water than desi chicken. Using tomato paste instead of tomatoes or tomato sauce helps us keep the dish from getting watery.
-    * This isn't a lot of tomato paste, but cooking it first gets the maximum amount of flavor from the one can. If you don't cook it first, you'll probably want a second or third can. 
-    * The amount of oil and water is also approximately one 6oz can, so you can reuse the tomato paste can for a measure.
 * For a charsi or Peshawari-style karahi omit the onion, tomato, and spices other than salt and pepper.
 :::
 
@@ -26,7 +34,7 @@
 
 #### Spices:
 
-*   **Salt**: 12-18g
+*   **Salt**: 12-18g (use the lower amount if dry-brining)
 *   **Coriander Powder**: 6g
 *   **Cumin Powder**: 7g total
 *   **Red Chili Powder or Paprika**: 6-10g
@@ -40,12 +48,20 @@
 
 ### Instructions
 
+#### Optional but Recommended: Dry-Brine Pre-Treatment
+1.  Cut the chicken into bite-sized pieces.
+2.  Toss the chicken with 1% of its weight in salt (for 1.5kg of chicken, use 15g of salt).
+3.  Place the salted chicken on a wire rack set over a baking sheet, uncovered.
+4.  Refrigerate for 4-6 hours. This process will draw out excess moisture, resulting in a much better sear and a thicker final gravy.
+5.  Do not rinse the chicken before cooking.
+
+#### Cooking the Karahi
 1.  **Sauté the Onion**: Heat the ghee or oil in a large wok or pot over medium heat. Add the diced onion and cook, stirring occasionally, for 8-10 minutes until it is soft and translucent.
-2.  **Bloom the Tomato Paste**: Add the tomato paste to the wok and stir it in with the onion. Cook for 2-3 minutes until the color deepens.
+2.  **Bloom the Tomato Paste**: Add the tomato paste to the wok and stir it in with the onion. Cook for 2-3 minutes until the color deepens. (If using fresh tomatoes with dry-brined chicken, add them here and cook until they break down).
 3.  **Add Aromatics**: Add the minced ginger and garlic. Add the coriander powder, 6g of cumin powder, red chili, and black pepper. Cook for 1-2 minutes until fragrant.
-4.  **Fry the Chicken**: Add the chicken pieces to the wok. Increase the heat to high.  Stir well and cook for 5-7 minutes until the chicken is browned and the spices are fragrant.
-5.  **Simmer**: Reduce the heat to medium-low. Add 120ml of water or broth. Stir, then cover and cook for 15-20 minutes, or until the chicken is tender. The sauce should be thick.
-6.  **Final Touches**: Remove the lid and increase the heat to high. Cook and stir for a few minutes until the sauce thickens and the oil begins to separate from the masala. If there is an excessive amount of oil, you can carefully tip the wok and spoon some of it out.
+4.  **Fry the Chicken**: Add the chicken pieces to the wok. Increase the heat to high. Stir well and cook for 5-7 minutes until the chicken is browned and the spices are fragrant.
+5.  **Simmer**: Reduce the heat to medium-low. Add 120ml of water or broth (omit if using fresh tomatoes). Stir, then cover and cook for 15-20 minutes, or until the chicken is tender.
+6.  **Final Touches (Bhunai)**: Remove the lid and increase the heat to high. Cook and stir for a few minutes until the sauce thickens and the oil begins to separate from the masala (the *tarka*). If desired, carefully spoon off any excess oil at this stage.
 7.  **Add Finishing Spices**: Turn off the heat. Stir in the green chilies, julienned fresh ginger, chopped cilantro, the remaining 1g of cumin, and the 1g of allspice.
 
 ---

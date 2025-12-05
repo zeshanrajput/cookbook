@@ -1,16 +1,19 @@
 # Active Context
 
 ## Current Focus
-- Refining recipes that need improvement.
-- Testing recipes that are not yet mature.
-- Continuing to add new recipes.
+- A major initiative to rework and improve several core recipes based on food science principles has been completed.
+- The current focus is now on testing these newly updated recipes to validate the changes.
 
 ## Next Steps
-- **High Priority - Recipe Improvement**:
-    - Rework `Kansai-Style Quarter Sheet Pan Tamagoyaki` to a sweeter style.
-    - Adjust `My take on a "medieval" stew` to achieve a thicker, less 'soupy' consistency.
+- **High Priority - Testing Newly Reworked Recipes**:
+    - `"The Baker's Secret" Chocolate Chip Cookies`: Test the new high-yield, low-risk recipe.
+    - `Homemade Naan (Modified)`: Test the new "Cast Iron Inversion" and hybrid leavening technique.
+    - `Good Old-Fashioned Pancakes (Modified v2)`: Test the reworked recipe with soured milk and a resting phase.
+    - `The "Everything Batter" (1:1:1 Ratio)`: Test its performance for cakes, crepes, and waffles.
+    - `Karachi Chicken Karahi`: Test the optional dry-brining step.
+    - `My take on a "medieval" stew"`: Test the new version with dried mushrooms for enhanced umami.
+    - `Kanto-Style (Sweet) Quarter Sheet Pan Tamagoyaki (v2)`: Test the reworked sheet-pan method.
 - **Testing & Refinement**:
-    - `Homemade Naan`: Explore techniques to make it significantly better than store-bought.
     - `Vanilla Pudding`: Explore techniques to make it significantly better than store-bought.
     - `Dal Makhani`: Test again to confirm the recipe.
     - `Tailgate Tandoori Chicken`: Continue to test and refine.

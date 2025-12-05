@@ -4,21 +4,22 @@ This file tracks the maturity of each recipe based on how many times it has been
 
 ## Bread
 - [ ] The Everything Dough Recipe (Made many times. Now my recipe for most basic breads. I don't make the NYT recipe anymore. I do make the pizza crust recipe when making pizza, as the flavor profile is better.)
-- [ ] Homemade Naan (Modified) (Made several times. My go-to recipe though not significantly better than store-bought yet.)
+- [ ] Homemade Naan (Modified) (Made several times. Reworked with a "Cast Iron Inversion" technique and hybrid leavening to better simulate a tandoor. Untested.)
 - [ ] Jay's Signature Pizza Crust (Made many times.)
 - [ ] Basic White Sandwich Bread (Made several times, though not better than store bought bread unless you're on a boat and away from land for a while.)
 - [ ] NYT No Knead Bread Recipe (Made several times. I use this baking technique with the simpler everything dough recipe above.)
 - [ ] The "Considered Average" Shokupan (Made: 0)
 
 ## Breakfast
-- [ ] Good Old-Fashioned Pancakes (Modified) (Made many times.)
+- [ ] Good Old-Fashioned Pancakes (Modified v2) (Made many times. Reworked to sour the milk and include a resting phase for a more tender and taller pancake. Untested.)
 - [ ] Quarter Sheet Pan Egg Roulade (Made several times.)
 - [ ] Quarter Sheet-Pan Omelette (Made several times.)
-- [ ] Kansai-Style Quarter Sheet Pan Tamagoyaki (Made 1. Didn't like the flavor profile. Needs significant work to make the sweeter tamago style instead.)
+- [ ] Kanto-Style (Sweet) Quarter Sheet Pan Tamagoyaki (v2) (Made: 0. Reworked with cornstarch, mayonnaise, and a high-heat, short-time protocol. Untested.)
 - [ ] The Perfect British-Style Scone for the American Kitchen (Made many, many times. Now a staple to have in the freezer.)
 
 ## Desserts
-- [ ] 1-2-3-4 Cake (Made several times. My go-to cake.)
+- [ ] "The Baker's Secret" Chocolate Chip Cookies (Made: 0. New recipe designed for high-yield, low-risk, using chemical mimicry to create bakery-style results. Replaces the previous brown-butter recipe. Untested.)
+- [ ] The "Everything Batter" (1:1:1 Ratio) (Made: 0. Replaces the old 1-2-3-4 cake with a versatile ratio-based batter using the reverse creaming method. Can be used for cakes, crepes, waffles, and Yorkshire puddings. Untested.)
 - [ ] Vanilla Pudding (Made several times. Not signifcantly better than store-bought.)
 - [ ] Julia Child's Fluffy Pumpkin Pie (Made: 0)
 
@@ -27,7 +28,7 @@ This file tracks the maturity of each recipe based on how many times it has been
 - [ ] Pumpkin Spice Latte (Made: 0)
 
 ## Main Courses
-- [ ] Karachi Chicken Karahi (Made many, many times. Recipe is near final. While not everyone's favorite karahi, this is a dish my family and friends love.)
+- [ ] Karachi Chicken Karahi (Made many, many times. Recipe is near final. An optional dry-brining step has been added to improve texture when using American chicken. Untested.)
 - [ ] Okonomiyaki (Made many times. A family favorite.)
 - [ ] Baotze (Chinese Steamed Buns) (Made several times. Hard work, but always enjoyed. Great party dinner/event.)
 - [ ] Instant Pot Butter Chicken (Modified) (Made several times. Great recipe.)
@@ -36,7 +37,7 @@ This file tracks the maturity of each recipe based on how many times it has been
 - [ ] Dal Makhani (Made once or twice. Went well.)
 
 ## Soups & Stews
-- [ ] My take on a "medieval" stew (Made a few times. Want to work on getting a more 'stew' and less 'soup' consistency.)
+- [ ] My take on a "medieval" stew (Made a few times. Reworked to include dried mushrooms to boost umami and create a "meaty" flavor without adding purines. Untested.)
 - [ ] Cha Cha's White Chicken Chili (Modified) (Made many times. Great to have in the soup/stew rotation.)
 - [ ] Easy Butter Chicken Soup (Made: 0)
 

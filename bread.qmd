@@ -4,6 +4,10 @@
 
 Attribution: [Brian Lagerstrom](https://youtu.be/wiCEyvooYYI)
 
+::: {.callout-note} 
+This dough in the "sweet spot" of handling—wet enough to generate significant steam and open crumb, but dry enough to be shaped by hand. The inclusion of olive oil coats the gluten strands, increasing extensibility and shelf life.
+:::
+
 ### Ingredients
 
 *   450 g (2 c) warm water, 30–32 °C (86–90 °F)
@@ -29,58 +33,69 @@ Attribution: [Brian Lagerstrom](https://youtu.be/wiCEyvooYYI)
 
 1.  If you don't want to wait overnight, you can continue to ferment the dough at room temperature for an additional 90 minutes.
 
-### Refrigerating the Dough:
+### Refrigerating the Dough (Optimal):
+
+::: {.callout-note}
+Letting the dough rest for 24-72 hours in the refrigerator slows the yeast activity but allows enzymatic activity (protease and amyase) to continue. This adds significant flavor depth.
+:::
 
 1.  Transfer the dough container to the refrigerator.
 2.  The dough can be stored in the fridge for up to 7 days.
 
----
 
-## Homemade Naan (Modified)
 
-Attribution: Based on the [Homemade Naan recipe](https://www.onceuponachef.com/recipes/homemade-naan.html) from Once Upon a Chef.
+## Homemade Naan (v2 - Tandoor Simulation)
+
+Attribution: Based on the [Homemade Naan recipe](https://www.onceuponachef.com/recipes/homemade-naan.html) from Once Upon a Chef, with significant technique modifications to simulate a tandoor oven.
 
 ### Ingredients
 
+#### For the Dough (Hybrid Leavening):
 *   240-360g all-purpose flour
 *   13g sugar
 *   3g instant dry yeast/rapid-rise yeast
+*   4g baking powder
 *   6g salt
-*   45ml plain Greek yogurt
+*   60ml plain Greek yogurt
 *   30ml extra virgin olive oil
 *   180ml warm water (about 38°C / 100°F)
 
-#### For Brushing
+#### For Cooking & Finishing:
+*   Water (for moistening)
+*   28g (2 tbsp) melted salted butter (for brushing)
+*   3g dried parsley or fresh cilantro (optional)
 
-*   28g (2 tbsp) melted salted butter (for brushing on finished naans)
-*   3g dried parsley (optional)
+### Equipment
+*   **A well-seasoned cast-iron skillet is essential for this technique.**
+*   Gas or high-output electric stovetop.
 
 ### Instructions
 
-1.  **Mix the dry ingredients**: In a large bowl, whisk together the flour, sugar, yeast, and salt.
-2.  **Mix the wet ingredients**: In a separate medium bowl, whisk together the Greek yogurt, olive oil, and warm water.
-3.  **Combine and stir**: Add the yogurt mixture to the dry ingredients and mix with a fork until the dough starts to come together.
-4.  **Knead**: Dust your hands with flour and gently knead the dough, adding more flour as needed (up to an additional 120g), until it forms a soft, slightly sticky ball that pulls away from the sides of the bowl. Stop kneading as soon as it comes together.
-5.  **Rise**: Lightly oil a clean bowl, transfer the dough to it, and cover with plastic wrap or a damp kitchen towel. Let the dough rise in a warm place for 1 to 1½ hours, or until it has about doubled in size.
-6.  **Prep and divide**: Dust a work surface with flour. Turn the risen dough onto the floured surface, shape it into a long rectangle, and cut it into six equal portions.
-7.  **Heat the skillet**: Heat a large cast iron or heavy nonstick skillet over medium-high heat until it is very hot.
-8.  **Roll and cook**: While the skillet heats, roll one of the dough balls into an oval shape about ⅛-inch (3mm) thick. Gently place the dough in the hot, dry skillet. Cook until bubbles form and the bottom is browned in spots (a few minutes). Flip the naan and cook for another 1-2 minutes until the bottom is lightly browned and blistered.
-9.  **Finish and serve**: Remove the naan from the skillet and brush with melted butter. Repeat with the remaining dough balls. Sprinkle with dried parsley, if desired, and serve warm.
+1.  **Activate Yeast & Mix Wet Ingredients**: In a medium bowl, whisk together the warm water, sugar, and yeast. Let it sit for 5 minutes until foamy. Whisk in the Greek yogurt and olive oil.
+2.  **Mix Dry Ingredients**: In a large bowl, whisk together the flour, baking powder, and salt.
+3.  **Combine and Knead**: Pour the wet ingredients into the dry ingredients. Mix with a fork until a shaggy dough forms. Dust your hands with flour and gently knead the dough in the bowl for 1-2 minutes until it comes together into a soft, slightly sticky ball.
+4.  **Rise**: Lightly oil a clean bowl, transfer the dough to it, and cover with plastic wrap or a damp towel. Let it rise in a warm place for 1 to 1½ hours, or until it has roughly doubled in size.
+5.  **Divide and Rest**: Turn the risen dough onto a lightly floured surface. Divide it into six equal portions. Roll each portion into a smooth ball. Cover the balls with a towel and let them rest for 10 minutes.
+6.  **Shape the Naan**: Working with one ball at a time, roll it into a teardrop or oval shape, about 3mm (⅛-inch) thick.
 
-### Notes on Modifications
 
-*   **Anise Seeds**: The anise seeds were an optional ingredient in the original recipe, so they have been removed completely.
-*   **Greek Yogurt**: Greek yogurt is thicker than regular plain yogurt. The recipe uses the same amount, which should work fine.
-*   **Dried Parsley**: Dried herbs are more potent than fresh ones. A general rule of thumb is to use one-third the amount of dried herbs as you would fresh. The original recipe called for 1 tablespoon of fresh parsley, so this recipe uses 1 teaspoon (now 3g) of dried parsley.
-*   **Flour**: Added up to 120g more flour to help the dough pull away from the bowl.
+### The Cast Iron Inversion Technique
 
----
+**This method simulates the intense, multi-directional heat of a tandoor. Read all steps before starting, as the process is fast.**
+
+7.  **Preheat Skillet**: Place your cast-iron skillet on the stovetop over high heat. Heat it until it is smoking hot. This can take 5-10 minutes. Proper preheating is critical.
+8.  **Moisten and Apply**: While the skillet heats, take one of your rolled-out naan. Lightly brush one side with water. Carefully place the water-side-down naan onto the hot skillet. The steam will make it stick to the surface.
+9.  **Cook the Bottom**: Let the naan cook for about 60-90 seconds. You will see large bubbles forming on the top surface.
+10. **Invert and Char the Top**: **Carefully invert the entire skillet**, holding it about 4-6 inches above the gas flame or electric coil. The naan will stay stuck to the pan. Move the skillet around to expose the top surface of the naan directly to the heat source. Cook for another 60-90 seconds, or until the top is blistered and charred in spots.
+11. **Remove and Finish**: Turn the skillet back upright and use tongs to remove the finished naan. Brush immediately with melted butter and sprinkle with herbs, if using. Place the finished naan in a covered dish or wrap it in a towel to keep it warm and soft while you cook the rest.
+12. **Repeat**: Repeat the process with the remaining dough balls, ensuring the skillet gets back to smoking hot between each one.
+
 
 ## Jay's Signature Pizza Crust
 
 Attribution: [Jay's Signature Pizza Crust](https://www.allrecipes.com/recipe/7245/jays-signature-pizza-crust/) from Allrecipes.
 
-:::{.callout-note}
+::: {.callout-note}
 You can use the everything bread dough above to make pizza too, but if you have the time and energy this recipe is much more complex.
 :::
 
@@ -103,7 +118,7 @@ You can use the everything bread dough above to make pizza too, but if you have 
 6.  If baking dough on a pizza stone, place toppings on dough and bake immediately. If baking dough on a pan, lightly oil the pan and let dough rise for 15 to 20 minutes before topping and baking it.
 7.  Bake in the preheated oven until cheese is melted and crust is golden brown, 15 to 20 minutes.
 
----
+
 
 ## Basic White Sandwich Bread
 
@@ -229,7 +244,7 @@ This dough makes excellent, fluffy dinner rolls.
 *   **Pan Size**: For a standard 9x13 inch baking pan, you will need to **double the recipe**. This will yield 20-24 rolls (arranged 4x5 or 4x6). A single batch fits well in a 9x9 inch square pan (9 large rolls).
 *   **Baking**: Proof until the rolls are puffy and touching. Bake at 175°C (350°F) for 20-25 minutes, or until golden brown and the internal temperature reaches 88°C (190°F).
 
----
+
 
 ## NYT No Knead Bread Recipe
 
@@ -257,7 +272,7 @@ Very low yeast, high hydration dough that requires a long rise at room temperatu
 7. Bake with lid on for 30 minutes. 
 8. Remove lid and bake until nicely browned and crust is well formed, ~15-30 more minutes.
 
----
+
 
 ## The Perfect British-Style Scone for the American Kitchen
 
@@ -321,7 +336,7 @@ This recipe bridges the gap between the hallowed halls of British baking and the
     *   **Lightly Sweetened Whipped Cream**: A simple and delicious option.
     *   **Crème Fraîche**: Offers a wonderful tangy richness.
 
-    ---
+    
 
 ## Red Lobster Cheddar Biscuits
 

@@ -71,3 +71,38 @@ This recipe makes one latte.
 3.  Heat the milk to 60-70°C (140-160°F) and froth using a French Press.
 4.  Pour the frothed milk over the coffee/sauce mixture.
 5.  Top with whipped cream and a sprinkle of pumpkin spice topping.
+
+## Eggnog
+
+Attribution: [Cyril K. Collins via 256stuff.com](https://256stuff.com/gray/recipes/eggnog/)
+
+This version is presented as non-alcoholic by default. See the Chef's Notes for the traditional alcoholic preparation.
+
+### Ingredients
+
+(For 8 servings)
+
+*   4 large eggs, separated
+*   100g (1/2 cup) sugar, divided
+*   840ml (3.5 cups) milk (whole or 2%)
+*   240ml (1 cup) heavy/whipping cream, divided
+*   5ml (1 tsp) vanilla extract
+*   Ground nutmeg for garnish
+
+### Instructions
+
+1.  **Separate Eggs**: Carefully separate the egg yolks and whites into two large bowls.
+2.  **Prepare Yolks**: Beat the egg yolks with half of the sugar (50g / 1/4 cup) until light and creamy.
+3.  **Prepare Whites**: In the other bowl, beat the egg whites until they form stiff peaks. Gradually beat in the remaining sugar (50g / 1/4 cup) until the mixture is glossy.
+4.  **Combine Mixtures**: Gently fold the yolk mixture into the beaten egg whites. Be careful not to deflate the whites.
+5.  **Add Milk and Vanilla**: Slowly stir in the milk and vanilla extract.
+6.  **Add Cream**: Stir in half of the heavy cream.
+7.  **Whip Remaining Cream**: In a separate bowl, whip the remaining half of the cream until it forms soft peaks.
+8.  **Fold in Whipped Cream**: Gently fold the whipped cream into the eggnog mixture.
+9.  **Serve**: Serve chilled or at room temperature with a sprinkle of ground nutmeg.
+
+### Chef's Notes
+
+*   **On Raw Eggs**: This recipe uses raw eggs. If you are concerned about salmonella, it is recommended to use pasteurized eggs.
+*   **Alcoholic Version**: For a traditional boozy eggnog, replace 480ml (2 cups) of the milk with 240ml (1 cup) of white rum and 240ml (1 cup) of whiskey (Bourbon or Canadian). Add the alcohol along with the remaining milk in step 5.
+*   **Leftovers**: Leftover eggnog makes excellent French toast batter.

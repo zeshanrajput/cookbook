@@ -1,25 +1,27 @@
 # Breakfast
 
-## Good Old-Fashioned Pancakes (Modified)
+## Good Old-Fashioned Pancakes (Modified v2)
 
 Attribution: Based on [Good Old-Fashioned Pancakes](https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/) from Allrecipes.
 
 ### Ingredients
 
+*   300ml milk
+*   15ml white vinegar
 *   180g all-purpose flour
 *   14g baking powder
 *   13g white sugar
-*   300ml milk (plus more, as needed, for desired consistency)
 *   45ml butter, melted
 *   1 large egg
 
 ### Directions
 
-1.  Gather all ingredients.
-2.  Sift flour, baking powder, and sugar together in a large bowl. Make a well in the center and add milk, melted butter, and egg; mix until smooth. Add additional milk, a little at a time, until the batter reaches a pourable consistency.
-3.  Heat a lightly oiled griddle or pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 60ml (1/4 cup) for each pancake; cook until bubbles form and the edges are dry, about 2 to 3 minutes.
-4.  Flip and cook until browned on the other side. Repeat with remaining batter.
-5.  Serve and enjoy!
+1.  **Sour the milk:** In a measuring cup, combine the milk and white vinegar. Let it stand for 5 minutes. This will create a buttermilk-like mixture that makes the pancakes more tender.
+2.  **Mix dry ingredients:** While the milk is souring, sift the flour, baking powder, and sugar together in a large bowl.
+3.  **Combine wet and dry:** Make a well in the center of the dry ingredients and add the soured milk, melted butter, and egg. Mix until just smooth. Do not overmix; a few lumps are okay.
+4.  **Rest the batter:** Let the batter rest for 10-15 minutes. This allows the flour to hydrate and the gluten to relax, resulting in a taller, fluffier pancake.
+5.  **Cook the pancakes:** Heat a lightly oiled griddle or pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 60ml (1/4 cup) for each pancake. Cook until bubbles form and the edges are dry, about 2 to 3 minutes.
+6.  **Flip and serve:** Flip and cook until browned on the other side. Repeat with remaining batter. Serve and enjoy!
 
 ---
 
@@ -163,30 +165,38 @@ Cook time: 20-30 minutes (total)
 
 ---
 
-## Kansai-Style Quarter Sheet Pan Tamagoyaki
+## Kanto-Style (Sweet) Quarter Sheet Pan Tamagoyaki (v2)
 
 Yields: 4-6 servings
 Prep time: 10 minutes
-Cook time: 15-20 minutes
+Cook time: 10-12 minutes
+
+### A Note on Tamagoyaki Styles
+This recipe is for a sweeter style of tamagoyaki, often found in the Kanto region of Japan (around Tokyo). This version incorporates a starch slurry and mayonnaise to ensure a soft, flexible texture that can be rolled without cracking, a common issue with the sheet pan method.
 
 ### Ingredients
 
 #### For the Egg Base:
-
 *   4 large eggs
 *   1.25g powdered hondashi
-*   60ml hot water
-*   7.5ml soy sauce (or even less for a very light color)
-*   30ml rice vinegar
-*   60-90g sugar (Start with 60g and go up if you want it sweeter)
+*   60ml cold water
+*   5g cornstarch (approx. 1 tsp)
+*   15ml mayonnaise
+*   15ml mirin
+*   7.5ml soy sauce (light soy sauce, or *usukuchi shoyu*, is preferred for a lighter color)
+*   110g sugar
+*   A pinch of salt
 
 #### For Rolling:
-
 *   Parchment paper
 *   Cooking spray or butter for greasing
 
-### Equipment:
+### Chef's Note: Mirin Alternatives
+Mirin is a sweet Japanese rice wine that adds a specific flavor and sweetness. If you don't have it, you can make a substitute:
+*   **Good substitute:** For every 1 tablespoon of mirin, use 1 tablespoon of dry sherry or sweet marsala wine.
+*   **Acceptable substitute:** For every 1 tablespoon of mirin, use 1 tablespoon of white wine or rice vinegar mixed with 1/2 teaspoon of sugar.
 
+### Equipment:
 *   A 23x33cm (9x13 in) rimmed baking pan
 *   Large mixing bowl
 *   Whisk
@@ -195,26 +205,24 @@ Cook time: 15-20 minutes
 
 ### Instructions
 
-#### Prepare the Baking Pan:
-
-1.  Preheat your oven to 175°C.
+#### Prepare the Baking Pan (HHST Protocol):
+1.  **Preheat your oven to 200°C (400°F).** This High-Heat, Short-Time (HHST) protocol is crucial.
 2.  Lightly grease your quarter sheet pan with cooking spray or butter.
 3.  Line the pan with a piece of parchment paper that overhangs the two long edges. This overhang will be crucial for lifting and rolling the egg sheet.
 
 #### Make the Tamagoyaki Mixture:
-
-1.  In a small bowl, dissolve the 1.25g of powdered hondashi in the 60ml of hot water. Stir until completely dissolved.
-2.  In a large mixing bowl, whisk the eggs until they are light and frothy.
-3.  In a separate bowl, dissolve the sugar in the rice vinegar.
-4.  Add the prepared dashi, soy sauce, and the vinegar-sugar mixture to the eggs. Whisk until everything is well combined.
+1.  In a small bowl, dissolve the cornstarch in the **cold** water, then whisk in the hondashi powder until fully combined. This creates a starch slurry.
+2.  In a large mixing bowl, whisk the eggs until light and frothy.
+3.  Add the mayonnaise, mirin, soy sauce, sugar, and salt to the eggs. Whisk until the sugar is dissolved.
+4.  Gently whisk the dashi-cornstarch slurry into the egg mixture until just combined.
 
 #### Bake the Egg Base:
-
 1.  Pour the egg mixture evenly onto the prepared 23x33-cm pan.
-2.  Bake for 10-15 minutes, or until the eggs are just set and the center is not "jiggly." The surface should be slightly spongy to the touch. Be careful not to overbake, as this will make it dry and prone to cracking.
+2.  **Bake for 10-12 minutes**, or until the eggs are just set and the center is not "jiggly." The surface should be puffed and slightly golden. Do not overbake.
 
 #### Roll and Slice:
-
-1.  Remove the pan from the oven and let the egg sheet cool for about 5 minutes.
-2.  Starting from one of the long edges, begin to gently roll the egg sheet up like a jelly roll. Use the parchment paper overhang to help you lift and guide the roll. Roll it tightly and evenly.
-3.  Let it cool for another few minutes before slicing into 2.5-cm thick pieces with a sharp knife.
+1.  **Immediately** remove the pan from the oven. The egg must be rolled while still hot to prevent cracking.
+2.  Using the parchment paper overhang as handles, lift the egg sheet out of the pan and place it on a heat-resistant surface.
+3.  Starting from one of the long edges, begin to gently and tightly roll the egg sheet up like a jelly roll. Use the parchment paper to help guide and tighten the roll.
+4.  Once fully rolled, wrap the tamagoyaki tightly in the parchment paper (like a tourniquet) to help it hold its cylindrical shape as it cools.
+5.  Let it cool for at least 10 minutes before slicing into 2.5-cm thick pieces with a sharp knife.
