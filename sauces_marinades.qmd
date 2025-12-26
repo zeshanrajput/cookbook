@@ -8,15 +8,17 @@ A sweet and savory marinade that caramelizes beautifully on the grill, bringing 
 
 This recipe is for a delicious, spicy Korean-style marinade perfect for the grill.
 
-### Marinade Ingredients
+### Marinade Ingredients (Scalable)
 
-*   180ml soy sauce
-*   50g brown sugar
-*   30ml sesame oil
-*   15ml ginger paste
-*   2g red pepper flakes (or to taste)
-*   150g of chopped onions
-*   100g of sliced mushrooms
+| Ingredient | 1 lb Meat (450g) | 2 lbs Meat (900g) | 10 lbs Meat (4.5kg) |
+| :--- | :--- | :--- | :--- |
+| **Soy Sauce** | 30 ml | 60 ml | 300 ml |
+| **Brown Sugar** | 8 g | 16 g | 80 g |
+| **Sesame Oil** | 5 ml | 10 ml | 50 ml |
+| **Ginger Paste** | 3 ml (½ tsp) | 6 ml (1 tsp) | 30 ml (2 tbsp) |
+| **Red Pepper Flakes** | 0.5 g | 1 g | 5 g |
+| **Chopped Onions** | 25 g | 50 g | 250 g |
+| **Sliced Mushrooms** | 15 g | 30 g | 150 g |
 
 ### Marination Instructions
 
@@ -45,23 +47,25 @@ A vibrant, citrusy, and spicy marinade inspired by Portuguese-African cuisine. I
 
 This recipe makes a vibrant and flavorful peri-peri chicken, perfect for grilling.
 
-### Marinade Ingredients
+### Marinade Ingredients (Scalable)
 
-*   30-40 ml (approx. 20-25 g) dried jalapeño flakes
-*   2-3 large red bell peppers
-*   25-35 g minced garlic
-*   150 ml rice wine vinegar
-*   30-60 ml lemon juice
-*   150 ml olive oil (or neutral oil)
-*   10-12 g Kashmiri red pepper powder
-*   3-4 g cayenne powder (adjust to taste)
-*   8-10 g onion powder
-*   8-10 g dried oregano
-*   8-10 g salt (adjust to taste)
-*   3-4 g black pepper
-*   5-7 g sugar
-*   8-10 g ginger paste
-*   Medium handful of fresh cilantro or parsley (optional)
+| Ingredient | 1 lb Meat (450g) | 2 lbs Meat (900g) | 10 lbs Meat (4.5kg) |
+| :--- | :--- | :--- | :--- |
+| **Dried Jalapeño Flakes** | 3 g | 6 g | 30 g |
+| **Red Bell Peppers** | 0.5 pepper | 1 pepper | 5 peppers |
+| **Fresh Garlic** | 4 g (1 clove) | 8 g (2 cloves) | 40 g (1 head) |
+| **Rice Wine Vinegar** | 20 ml | 40 ml | 200 ml |
+| **Lemon Juice** | 5 ml | 10 ml | 50 ml |
+| **Olive Oil** | 20 ml | 40 ml | 200 ml |
+| **Kashmiri Red Pepper** | 1.5 g | 3 g | 15 g |
+| **Cayenne Powder** | 0.5 g | 1 g | 5 g |
+| **Onion Powder** | 1.5 g | 3 g | 15 g |
+| **Dried Oregano** | 1.5 g | 3 g | 15 g |
+| **Salt** | 1.5 g | 3 g | 15 g |
+| **Black Pepper** | 0.5 g | 1 g | 5 g |
+| **Sugar** | 1 g | 2 g | 10 g |
+| **Ginger Paste** | 1.5 g | 3 g | 15 g |
+| **Fresh Cilantro** | Small pinch | Large pinch | 1 Bunch |
 
 ### Marination Instructions
 
@@ -83,6 +87,10 @@ Preheat your grill to about 450-500°F (230-260°C). Grill the chicken for 6-8 m
 2.  Arrange the marinated chicken in a single layer on a baking sheet.
 3.  Bake for 20-25 minutes, or until the chicken is cooked through.
 
+### Chef's Notes
+
+*   **Substitution**: If you don't have Kashmiri Red Pepper powder, you can substitute it with standard Paprika. Kashmiri pepper provides vibrant red color without excessive heat, which is exactly what paprika does (though paprika is slightly milder).
+
 ---
 
 ## Tailgate Tandoori Chicken
@@ -93,23 +101,25 @@ A yogurt-based marinade that tenderizes the chicken while delivering the warm, e
 
 Attribution: Based on Chef John's Tailgate Tandoori Chicken
 
-### Marinade Ingredients
+### Marinade Ingredients (Scalable)
 
-*   5g (1 tsp) grated ginger
-*   1 lemon, juiced
-*   15g (1 tbsp) tomato paste
-*   6 cloves garlic, minced
-*   30ml (2 tbsp) vegetable oil
-*   75g (1/3 cup) Greek yogurt
-*   7g (1 tbsp) smoked paprika and/or Kashmiri red pepper
-*   6g (1 tbsp) ground cumin
-*   4g (2 tsp) ground coriander
-*   2g (1 tsp) cayenne
-*   1g (1/2 tsp) allspice
-*   1g (1/2 tsp) ground turmeric
-*   15g (2 1/2 tsp) kosher salt
-*   1g (1/2 tsp) freshly ground black pepper
-*   4g (1 tsp) white sugar
+| Ingredient | 1 lb Meat (450g) | 2 lbs Meat (900g) | 10 lbs Meat (4.5kg) |
+| :--- | :--- | :--- | :--- |
+| **Grated Ginger** | 2 g | 4 g | 20 g |
+| **Lemon Juice** | 12 ml | 25 ml | 120 ml |
+| **Tomato Paste** | 6 g | 12 g | 60 g |
+| **Minced Garlic** | 2 cloves | 4 cloves | 20 cloves |
+| **Vegetable Oil** | 12 ml | 25 ml | 120 ml |
+| **Greek Yogurt** | 30 g | 60 g | 300 g |
+| **Paprika** | 3 g | 6 g | 30 g |
+| **Cumin** | 2.5 g | 5 g | 25 g |
+| **Coriander** | 1.5 g | 3 g | 15 g |
+| **Cayenne** | 1 g | 2 g | 10 g |
+| **Allspice** | 0.5 g | 1 g | 5 g |
+| **Turmeric** | 0.5 g | 1 g | 5 g |
+| **Kosher Salt** | 6 g | 12 g | 60 g |
+| **Black Pepper** | 0.5 g | 1 g | 5 g |
+| **Sugar** | 1.5 g | 3 g | 15 g |
 
 ### Marination Instructions
 
@@ -293,14 +303,15 @@ Attribution: A "New World" grill classic.
 
 Unlike American BBQ, which relies heavily on smoke and dry rubs, "Trini BBQ" relies on a wet, herbal marinade (Green Seasoning) followed by a sticky, ketchup-based glaze applied at the very end.
 
-#### Marinade Ingredients
+#### Marinade Ingredients (Scalable)
 
-*   1.5 - 2 kg chicken leg quarters (bone-in, skin-on)
-*   120ml Green Seasoning (recipe above)
-*   30ml soy sauce
-*   15ml Worcestershire sauce
-*   10g salt
-*   5g black pepper
+| Ingredient | 1 lb Meat (450g) | 2 lbs Meat (900g) | 10 lbs Meat (4.5kg) |
+| :--- | :--- | :--- | :--- |
+| **Green Seasoning** (Mother Sauce) | 60 ml | 120 ml | 600 ml |
+| **Soy Sauce** | 15 ml | 30 ml | 150 ml |
+| **Worcestershire** | 7.5 ml | 15 ml | 75 ml |
+| **Salt** | 5 g | 10 g | 50 g |
+| **Black Pepper** | 2.5 g | 5 g | 25 g |
 
 #### Trini BBQ Sauce Ingredients
 
@@ -334,6 +345,9 @@ Unlike American BBQ, which relies heavily on smoke and dry rubs, "Trini BBQ" rel
 4.  Brush generously with the BBQ Sauce.
 5.  Grill for 2-3 minutes per side, flipping and basting once more, until the sauce is bubbly, sticky, and charred in spots.
 6.  Serve immediately with extra sauce on the side.
+
+### Chef's Notes
+*   **Flavor Profile**: The herbal "Green Seasoning" flavor can be delicate. High-heat grilling (500°F) for 6-8 minutes tends to mute the fresh herbal punch compared to stewing. For a stronger herbal kick, try basting with a little extra fresh Green Seasoning (mixed with oil) right at the end, or apply the glaze earlier to seal it in.
 
 ---
 
@@ -428,31 +442,25 @@ Attribution: The "Pantry Raid" Classic.
 
 
 
-### Ingredients
+### Marinade Ingredients (Scalable)
 
-#### The Fresh Base
-
-*   100g (1 bunch) scallions (green onions), chopped (green and white parts). *Sub: Use 1 additional medium onion (red or yellow).*
-*   30-40g (6-8 cloves) garlic, peeled
-*   30g (approx. 2 tbsp) fresh ginger, peeled and roughly chopped
-*   15-45g (1-3) Scotch Bonnet or Habanero peppers (adjust for heat; remove seeds for a milder version). *Sub: 30-40g (2-3) Jalapeños, or 5-10g (1-2 tsp) Cayenne powder.*
-*   150g (1 medium) onion, roughly chopped
-
-#### The Liquids
-
-*   60ml (1/4 cup) soy sauce
-*   30ml (2 tbsp) vegetable oil
-*   30ml (2 tbsp) white vinegar or lime juice
-
-#### The Dry Spices
-
-*   30g (2 tbsp) brown sugar
-*   15g (1 tbsp) dried thyme (or 2 tbsp fresh leaves)
-*   8g (1 tbsp) ground allspice (essential)
-*   4g (1 tsp) ground cinnamon
-*   4g (1 tsp) ground nutmeg
-*   5g (1 tsp) salt
-*   5g (1 tsp) black pepper
+| Ingredient | 1 lb Meat (450g) | 2 lbs Meat (900g) | 10 lbs Meat (4.5kg) |
+| :--- | :--- | :--- | :--- |
+| **Scallions** (Chopped) | 25 g | 50 g | 250 g |
+| **Garlic** (Peeled) | 10 g | 20 g | 100 g |
+| **Fresh Ginger** | 8 g | 16 g | 80 g |
+| **Scotch Bonnets** | 8 g (0.5 pepper) | 16 g (1 pepper) | 80 g (5 peppers) |
+| **Onion** (Chopped) | 40 g | 80 g | 400 g |
+| **Soy Sauce** | 15 ml | 30 ml | 150 ml |
+| **Vegetable Oil** | 8 ml | 15 ml | 75 ml |
+| **Vinegar / Lime** | 8 ml | 15 ml | 75 ml |
+| **Brown Sugar** | 8 g | 16 g | 80 g |
+| **Dried Thyme** | 4 g | 8 g | 40 g |
+| **Allspice** | 2 g | 4 g | 20 g |
+| **Cinnamon** | 1 g | 2 g | 10 g |
+| **Nutmeg** | 1 g | 2 g | 10 g |
+| **Salt** | 1.25 g | 2.5 g | 12.5 g |
+| **Black Pepper** | 1.25 g | 2.5 g | 12.5 g |
 
 ### Instructions
 
@@ -499,22 +507,24 @@ True Jerk chicken is smoked over fresh pimento (allspice) wood, which gives it a
 ## Pollo a la Brasa Marinade (The Savory/Umami Profile)
 
 ::: {.callout-note}
-his marinade is the secret behind the addictive charcoal-roasted chicken of Peru. It relies on a heavy hand with Cumin and Soy Sauce, creating a dark, savory skin that tastes like it spent hours over a wood fire, even when cooked in a standard oven.
+This marinade is the secret behind the addictive charcoal-roasted chicken of Peru. It relies on a heavy hand with Cumin and Soy Sauce, creating a dark, savory skin that tastes like it spent hours over a wood fire, even when cooked in a standard oven.
 :::
 
 Attribution: The "Umami" Roast.
 
-### Ingredients
+### Marinade Ingredients (Scalable)
 
-*   60ml (1/4 cup) soy sauce
-*   60ml (1/4 cup) white vinegar (or red wine vinegar if you have it)
-*   30ml (2 tbsp) vegetable oil
-*   30-40g (6-8 cloves) garlic, minced (or 1 tbsp garlic paste)
-*   15g (1 tbsp) ground cumin (don't be shy!)
-*   15g (1 tbsp) paprika (smoked paprika works great here too)
-*   5g (1 tsp) dried oregano
-*   5g (1 tsp) black pepper
-*   2g (1/2 tsp) salt (go easy, as the soy sauce is salty)
+| Ingredient | 1 lb Meat (450g) | 2 lbs Meat (900g) | 10 lbs Meat (4.5kg) |
+| :--- | :--- | :--- | :--- |
+| **Soy Sauce** | 17 ml | 34 ml | 170 ml |
+| **Vinegar** | 17 ml | 34 ml | 170 ml |
+| **Vegetable Oil** | 9 ml | 18 ml | 90 ml |
+| **Garlic** (Minced) | 10 g | 20 g | 100 g |
+| **Cumin** | 4 g | 8 g | 40 g |
+| **Paprika** | 4 g | 8 g | 40 g |
+| **Dried Oregano** | 1.5 g | 3 g | 15 g |
+| **Black Pepper** | 1.5 g | 3 g | 15 g |
+| **Salt** | 0.5 g | 1 g | 5 g |
 
 ### Instructions
 
@@ -554,6 +564,14 @@ The signature of Pollo a la Brasa is the crispy, salty skin. To replicate this w
 **4. Rest**
 
 1.  Let the chicken rest for 10 minutes before carving.
+
+### Preparation Suggestion: High-Heat Grilled Thighs
+
+**Tested & Verified**: This method was tested with boneless, skinless chicken thighs and received extremely well.
+
+1.  **Prep**: Marinate boneless, skinless thighs for at least 4-6 hours.
+2.  **Grill**: Preheat grill to high (approx. 500°F / 260°C).
+3.  **Cook**: Grill for 7-8 minutes per side. The sugars in the soy sauce will char beautifully, creating a savory, dark crust while keeping the meat juicy.
 
 #### Serving Suggestion: "Green Sauce" (Aji Verde)
 

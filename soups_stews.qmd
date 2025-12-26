@@ -1,5 +1,63 @@
 # Soups & Stews
 
+## Foundations: Scientific Stocks & Consommé
+
+Attribution: [Chris Young / Modernist Cuisine](https://www.youtube.com/watch?v=q6gYdI3Hh40). Confirmed by experimentation at The Fat Duck.
+
+### Recipe 1: The "60-Minute Michelin" Stock (Rotisserie Hack)
+
+This recipe uses **Fick's Law of Diffusion** to beat traditional French stock. By increasing surface area (shredding meat) and using pressure (higher temp without turbulence), we extract optimum gelatin and flavor in just 45-60 minutes.
+
+#### Ingredients
+*   1 Costco/Supermarket Rotisserie Chicken (skin removed if you want less fat, keep it if you want schmaltz)
+*   1 onion, thinly sliced (more surface area)
+*   1 carrot, thinly sliced
+*   2 garlic cloves, smashed
+*   2 Liters (2 Quarts) Water
+
+#### Chef's Note: To Skin or Not to Skin?
+*   **If clarifying via The 'Raft' (Technique 2)**: **Remove the skin** (or skim the fat after cooling). A protein raft cannot trap a heavy layer of fat; it will just break or leave a grease slick.
+*   **If clarifying via Ice-Filtration (Technique 3)**: **Keep the skin!** The fat provides flavor during extraction but will remain frozen solid in the filter, leaving the consommé crystal clear and fat-free.
+
+#### Instructions
+1.  **Prep**: Pull all the meat off the chicken carcass. Shred the meat finely (this maximizes surface area for extraction). Break the carcass bones to expose the marrow.
+2.  **Sauté**: In your Instant Pot/Pressure Cooker, sauté the onion, carrot, and garlic in a little oil until browned.
+3.  **Combine**: Add the shredded chicken meat, bones, and water.
+4.  **Pressure Cook**: Cook on HIGH pressure for **45 minutes** (or **60 minutes for Turkey**).
+    *   *Why 45 mins?* Chris Young's data shows that 1 hour of pressure cooking equals 6 hours of simmer. Going beyond 90 minutes degrades quality.
+5.  **The "Clarifying" Release**: Allow the pressure to release **NATURALLY**.
+    *   *Critical Science*: Venting manually causes the superheated water to flash-boil violently, emulsifying the fat and clouding the stock. A natural release keeps it still and clear.
+6.  **Strain**: Pour through a fine mesh sieve.
+
+### Technique 2: Rapid Clarification (The "Meat Smoothie" Raft)
+
+If you need crystal clear consommé *fast* (same day), use this method. It relies on **myosin**, a sticky protein in muscle fiber, to trap impurities.
+
+1.  **The "Smoothie"**: Take 100g of **RAW** chicken (ground or chopped breast/thigh) and blend it with 1 egg white and 100ml of cold stock/water. Blend it until it is a smooth paste.
+    *   *Critical Warning*: **Do NOT succumb** to the temptation to use cooked leftovers. Cooked proteins are already denatured and cannot form a raft; they will simply dissolve into mush and make your stock cloudier.
+    *   *Substitutions*: You can use **Lean Ground Beef**, which is excellent at clarifying. However, be aware that using beef to clarify chicken stock will darken the color and add a distinct beefy flavor (creating a hybrid stock).
+    *   *Turkey Tip*: If making turkey stock, check the cavity! The **Heart and Gizzard** are pure muscle and packed with myosin. If they look small (under 100g), simply **add an extra egg white** to the blend to ensure a strong raft. (Avoid the liver; it's too bitter).
+2.  **Mix**: Whisk this paste into your COLD pressure cooker stock.
+3.  **Cook**: Bring back to high pressure for 15 minutes, then Natural Release.
+4.  **The Raft**: The proteins will coagulate into a solid "raft" at the top, trapping all particles. The liquid underneath will be consommé.
+
+### Technique 3: Ice-Filtration ("Cryo-Clarification")
+
+If you have time (24 hours) and want the absolute purest, clearest essence of chicken (perfect for drinking), use this method. It filters the stock through a microscopic mesh of gelatin.
+
+1.  **Freeze**: Take your strained stock (fat and all) and freeze it into solid blocks or cubes.
+2.  **The Setup**: Line a colander with cheesecloth or a coffee filter. Place the colander over a large bowl/pot.
+3.  **The Thaw**: Place the frozen stock blocks in the lined colander. Put the entire setup **in the fridge**.
+4.  **The Meltdown**: As the ice slowly melts, the liquid gelatin and flavor compounds drip through. The fat and large, cloudy protein molecules are trapped in the remaining ice lattice and cheesecloth.
+5.  **The Result**: You will be left with a golden, jewel-like liquid (Consommé) in the bowl, and a thick, brown goo (impurities + concentrated gelatin) in the cloth.
+    *   *Chef's Tip*: Don't throw away the goo! It's essentially "Chicken Demiglace." Add it to sauces for body.
+
+### Usage Guide: Stock vs. Consommé
+*   **When to use Base Stock**: Use the unclarified stock for **90% of recipes** (like the *Medieval Stew* or *Butter Chicken Soup* below). These recipes add thickeners, dairy, or vegetables that will cloud the liquid anyway, so clarification is a waste of time. The unclarified stock also retains more fat, which adds richness to heartier dishes.
+*   **When to Clarify**: Only clarify if the liquid is the "star" and needs to be beautiful (e.g., French Onion Soup, a delicate broth with dumplings, or for drinking straight).
+
+---
+
 ## My take on a "medieval" stew (v2)
 
 As I understand it, innkeepers in medieval times would keep a pot on simmer. As people took a serving out of the pot, they would add whatever they had (meat, vegetables, etc.) to the stew. Because I have gout, I've made some notes to help lower purine. This version is designed to create a deep, "meaty" flavor and a thicker consistency without using high-purine meat stocks.

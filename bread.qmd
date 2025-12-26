@@ -5,12 +5,12 @@
 Attribution: [Brian Lagerstrom](https://youtu.be/wiCEyvooYYI)
 
 ::: {.callout-note} 
-This dough in the "sweet spot" of handling—wet enough to generate significant steam and open crumb, but dry enough to be shaped by hand. The inclusion of olive oil coats the gluten strands, increasing extensibility and shelf life.
+This dough aims for the "sweet spot" of handling—wet enough to generate significant steam and open crumb, but dry enough to be shaped by hand. The inclusion of olive oil coats the gluten strands, increasing extensibility and shelf life.
 :::
 
 ### Ingredients
 
-*   450 g (2 c) warm water, 30–32 °C (86–90 °F)
+*   420 g (1 ¾ c + 2 tbsp) warm water, 30–32 °C (86–90 °F)
 *   7 g (2 ¼ t) instant yeast
 *   20 g (1 ½ T) sugar
 *   20 g (1 ½ T) olive oil
@@ -23,7 +23,8 @@ This dough in the "sweet spot" of handling—wet enough to generate significant 
 2.  Stir in the yeast until dissolved.
 3.  Add the sugar, olive oil, and salt to the water mixture.
 4.  Gradually stir in the flour with a sturdy spoon until a shaggy mass forms.  
-5.  Wet your hands and gently squeeze the dough until it is homogenous.
+5.  **Finish Mixing**: Wet your hands and gently squeeze the dough until it is homogenous. Alternatively, you can use a stiff silicone spatula to fold and press the dough against the side of the container until combined.
+    *   *Note*: If the dough feels too wet, you can perform one set of "stretch and folds" after 15 minutes. This builds gluten structure and makes the dough smoother and less sticky.
 
 ### Resting the Dough:
 
@@ -41,6 +42,7 @@ Letting the dough rest for 24-72 hours in the refrigerator slows the yeast activ
 
 1.  Transfer the dough container to the refrigerator.
 2.  The dough can be stored in the fridge for up to 7 days.
+    *   **Pro Tip (The Continuous Cycle)**: For the best results and convenience, try to get into a "Make one, Bake one" cycle. Whenever you pull a matured dough out of the fridge to bake, mix a new batch immediately and put it in. This ensures you always have a 24-72 hour fermented dough ready to go.
 
 
 
@@ -179,11 +181,12 @@ Attribution: Internal comparative analysis and formulation.
 
 *   325g (2 2/3 cups) All-Purpose Flour
 *   35g (2 1/2 tbsp) Granulated Sugar
+*   20g (2 tbsp) Nonfat Milk Powder (See Chef's Note)
 *   5g (1 1/2 tsp) Instant Yeast
-*   6g (1 tsp) Fine Sea Salt
+*   8g (1 1/2 tsp) Fine Sea Salt
 *   50g (1 large) Whole Egg, room temperature
 *   120ml (1/2 cup) Whole Milk, lukewarm
-*   30g (2 tbsp) Unsalted Butter, softened
+*   45g (3 tbsp) Unsalted Butter, softened
 
 #### For Brushing (Optional)
 
@@ -243,6 +246,8 @@ This dough makes excellent, fluffy dinner rolls.
 *   **Shaping**: At the shaping step, instead of three cylinders divide the dough into 50-60g portions and roll into tight balls.
 *   **Pan Size**: For a standard 9x13 inch baking pan, you will need to **double the recipe**. This will yield 20-24 rolls (arranged 4x5 or 4x6). A single batch fits well in a 9x9 inch square pan (9 large rolls).
 *   **Baking**: Proof until the rolls are puffy and touching. Bake at 175°C (350°F) for 20-25 minutes, or until golden brown and the internal temperature reaches 88°C (190°F).
+*   **The Milk Powder Hack**: To address the "light" flavor of earlier tests, I've added **Nonfat Milk Powder**. This adds the signature milky aroma and richness without messing up the water/hydration ratios.
+    *   **Substitute**: If you don't stock this, you can omit it, but the bread will be less fragrant. Alternatively, replace the 120ml liquid milk with **Evaporated Milk** for a similar boost.
 
 
 
@@ -251,6 +256,10 @@ This dough makes excellent, fluffy dinner rolls.
 Attribution: [New York Times Cooking: No Knead Bread Recipe](https://cooking.nytimes.com/recipes/11376-no-knead-bread)
 
 ::: {.callout-note}
+**Legacy Recipe / Paywall Archive**: This recipe is preserved here because the original source is often behind a paywall.
+
+**Comparison**: While I almost exclusively use the **"Everything Dough"** recipe above (which produces a similar result in less time with easier handling), this recipe is still useful if you want the specific chemical effects of a very long, high-hydration bulk ferment (super-open, custardy crumb) and have 18+ hours to wait.
+
 Very low yeast, high hydration dough that requires a long rise at room temperature to build gluten.
 :::
 

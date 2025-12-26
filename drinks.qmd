@@ -80,29 +80,29 @@ This version is presented as non-alcoholic by default. See the Chef's Notes for 
 
 ### Ingredients
 
-(For 8 servings)
-
-*   4 large eggs, separated
-*   100g (1/2 cup) sugar, divided
-*   840ml (3.5 cups) milk (whole or 2%)
-*   240ml (1 cup) heavy/whipping cream, divided
-*   5ml (1 tsp) vanilla extract
-*   Ground nutmeg for garnish
+| Ingredient | 1 Batch (8 Servings) | 2 Batches (16 Servings) | 3 Batches (24 Servings) |
+| :--- | :--- | :--- | :--- |
+| **Large Eggs** (Separated) | 4 | 8 | 12 |
+| **Sugar** (Divided) | 100g (1/2 cup) | 200g (1 cup) | 300g (1.5 cups) |
+| **Milk** (Whole or 2%) | 840ml (3.5 cups) | 1680ml (7 cups) | 2520ml (10.5 cups) |
+| **Heavy Cream** (Divided) | 240ml (1 cup) | 480ml (2 cups) | 720ml (3 cups) |
+| **Vanilla Extract** | 5ml (1 tsp) | 10ml (2 tsp) | 15ml (1 tbsp) |
+| **Nutmeg** | Garnish | Garnish | Garnish |
 
 ### Instructions
 
 1.  **Separate Eggs**: Carefully separate the egg yolks and whites into two large bowls.
-2.  **Prepare Yolks**: Beat the egg yolks with half of the sugar (50g / 1/4 cup) until light and creamy.
-3.  **Prepare Whites**: In the other bowl, beat the egg whites until they form stiff peaks. Gradually beat in the remaining sugar (50g / 1/4 cup) until the mixture is glossy.
+2.  **Prepare Yolks**: Beat the egg yolks with **half of the sugar** until light and creamy.
+3.  **Prepare Whites**: In the other bowl, beat the egg whites until they form stiff peaks. Gradually beat in the **remaining half of the sugar** until the mixture is glossy.
 4.  **Combine Mixtures**: Gently fold the yolk mixture into the beaten egg whites. Be careful not to deflate the whites.
 5.  **Add Milk and Vanilla**: Slowly stir in the milk and vanilla extract.
-6.  **Add Cream**: Stir in half of the heavy cream.
-7.  **Whip Remaining Cream**: In a separate bowl, whip the remaining half of the cream until it forms soft peaks.
+6.  **Add Cream**: Stir in **half of the heavy cream**.
+7.  **Whip Remaining Cream**: In a separate bowl, whip the remaining **half of the cream** until it forms soft peaks.
 8.  **Fold in Whipped Cream**: Gently fold the whipped cream into the eggnog mixture.
 9.  **Serve**: Serve chilled or at room temperature with a sprinkle of ground nutmeg.
 
 ### Chef's Notes
 
 *   **On Raw Eggs**: This recipe uses raw eggs. If you are concerned about salmonella, it is recommended to use pasteurized eggs.
-*   **Alcoholic Version**: For a traditional boozy eggnog, replace 480ml (2 cups) of the milk with 240ml (1 cup) of white rum and 240ml (1 cup) of whiskey (Bourbon or Canadian). Add the alcohol along with the remaining milk in step 5.
+*   **Alcoholic Version**: For a traditional boozy eggnog, **per batch**: replace 480ml (2 cups) of the milk with 240ml (1 cup) of white rum and 240ml (1 cup) of whiskey (Bourbon or Canadian). Add the alcohol along with the remaining milk in step 5.
 *   **Leftovers**: Leftover eggnog makes excellent French toast batter.
